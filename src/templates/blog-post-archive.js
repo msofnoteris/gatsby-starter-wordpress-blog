@@ -6,10 +6,8 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({
-  data,
-  pageContext: { nextPagePath, previousPagePath },
-}) => {
+const BlogIndex = ({ data, pageContext: { nextPagePath, previousPagePath }, }) => {
+
   const posts = data.allWpPost.nodes
 
   if (!posts.length) {
