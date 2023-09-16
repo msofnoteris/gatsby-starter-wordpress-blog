@@ -73,3 +73,5 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-wordpress-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+Tutorial: https://youtu.be/zaV41KpiDGk?si=0xoa96SA0BVhuLm9&t=4322
