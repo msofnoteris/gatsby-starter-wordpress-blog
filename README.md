@@ -75,3 +75,5 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 Tutorial: https://youtu.be/zaV41KpiDGk?si=0xoa96SA0BVhuLm9&t=4322
+
+Todo
